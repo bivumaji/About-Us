@@ -1,3 +1,3 @@
 # about-us
 
-This is an about us page. Which has been created using HTML and CSS.
+This is a responsive about us page. Which is created using HTML and CSS.
