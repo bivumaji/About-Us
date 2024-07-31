@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-section{
+    background-color: rgb(185, 127, 18);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.team{
+    text-align: center;
+    color: rgb(46, 31, 10);
+    padding: 20px;
+}
+
+.column{
+    width: 33.33%;
+    float: left;
+    padding: 0 10px;
+    margin-bottom: 16px;
+}
+
+.card{
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.329);
+    margin: 10px;
+    padding-bottom: 20px;
+    transition: ease-in-out 1s;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.746);
+}
+
+
+.container{
+    padding: 0 20px;
+    line-height: 40px;
+}
+
+
+.row::after {
+    content: '';
+    clear: both;
+    display: table;
+}
+
+.post{
+    color: rgb(95, 93, 93);
+}
+
+.button{
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+}
+
+.button:hover{
+    background-color: rgb(71, 71, 71);
+}
+
+footer{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.footer-text{
+    color: #ffffff87;
+    border-bottom: 1px solid #ffffff4e;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.social{
+    font-size: 20px;
+    letter-spacing: 20px;
+}
+
+.social i{
+    color: #ffffff87;
+}
+.social i:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 1s;
+}
+
+@media screen and (max-width: 600px){
+
+    .column{
+        width: 100%;
+        display: block;
+    }
+
+}
