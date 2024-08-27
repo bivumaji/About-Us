@@ -7,7 +7,7 @@ This repository features a responsive "About Us" page designed with HTML and CSS
 - **Customizable:** Easily modify styles and content to match your branding.
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/yourusername/About-Us.git`
+1. Clone this repository: `git clone https://github.com/bivumaji/About-Us.git`
 2. Open `index.html` in your browser to view the page.
 
 **Thank You ❤️**
