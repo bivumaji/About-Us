@@ -1,4 +1,4 @@
-# Responsive About Us Page
+# Responsive About Us Page ❤️
 This repository features a responsive "About Us" page designed with HTML and CSS. The page adapts seamlessly to different screen sizes, ensuring an optimal viewing experience on both desktop and mobile devices.
 
 ## Features
@@ -10,4 +10,4 @@ This repository features a responsive "About Us" page designed with HTML and CSS
 1. Clone this repository: `git clone https://github.com/yourusername/About-Us.git`
 2. Open `index.html` in your browser to view the page.
 
-3. Thank You ❤️
+**Thank You ❤️**
